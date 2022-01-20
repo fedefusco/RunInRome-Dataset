@@ -1,7 +1,9 @@
 # RunInRome-Dataset
 
-This dataset contais 8425 consecutive positions (latitude, longitude) relative to a running activity in Rome.
+This dataset contais 8425 consecutive positions (latitude, longitude) relative to a run in Rome. The positions are stored in chronological order in RunInRome.csv
 
-The maps have been generated via OpenStreetMap https://www.openstreetmap.org/
+For details and further information: federico.fusco at uniroma1.it
 
-For details and further information: federico.fusco@uniroma1.it
+# License
+
+The license information are in LICENSE
